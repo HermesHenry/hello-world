@@ -6,7 +6,7 @@ Hello World! 😊
 - I am a student at Appalachian State University
 - I am ~18~19 years old
 
-![Me and my cat, Fred](MeAndFred.jpg) [^1]
+![Me and my cat, Fred](MeAndFred.jpeg) [^1]
 
 [^1]: I need to learn how to upload the image!
 
